@@ -1,4 +1,3 @@
-const Discord = require("discord.js");
 const Music = require('discord.js-musicbot-addon');
 const Enmap = require("enmap");
 const fs = require("fs");
